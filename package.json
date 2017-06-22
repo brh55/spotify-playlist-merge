@@ -1,6 +1,6 @@
 {
   "name": "spotify-playlist-merge",
-  "version": "0.0.2,
+  "version": "0.0.2",
   "description": "A barebones CLI tool to merge Spotify playlists",
   "license": "MIT",
   "repository": "brh55/spotify-playlist-merge",
