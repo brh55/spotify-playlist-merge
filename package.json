@@ -1,0 +1,42 @@
+{
+  "name": "spotify-playlist-merge",
+  "version": "0.0.1",
+  "description": "A simple CLI tool to merge Spotify playlist",
+  "license": "MIT",
+  "repository": "brh55/spotify-playlist-merge",
+  "author": {
+    "name": "Brandon Him",
+    "email": "brandonhim@live.com",
+    "url": "github.com/brh55/spotify-playlist-merge"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "spotify",
+    "spotify utilities",
+    "merge spotify playlist",
+    "spotify playlist",
+    "tools"
+  ],
+  "dependencies": {
+    "meow": "^3.7.0",
+    "ora": "^1.3.0",
+    "pify": "^3.0.0",
+    "prompt": "^1.0.0",
+    "spotify-web-api-node": "^2.4.0"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  }
+}
