@@ -1,4 +1,4 @@
-# spotify-playlist-merge [![Build Status](https://travis-ci.org/brh55/spotify-playlist-merge.svg?branch=master)](https://travis-ci.org/brh55/spotify-playlist-merge)
+# spotify-playlist-merge
 
 > A barebones CLI app to copy over tracks from another Spotify playlist
 
